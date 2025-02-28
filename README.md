@@ -1,2 +1,2 @@
 # Patient_Readmission_Risk_Predictor
-This project leverages Python and Streamlit to provide an interactive, user-friendly web application where healthcare professionals or researchers can input patient details and receive an immediate risk assessment.
+The Patient Readmission Risk Predictor is a simple yet effective tool designed to assess a patient's likelihood of hospital readmission based on key health factors such as age, diagnosis, and previous hospital visits. This project leverages Python and Streamlit to provide an interactive, user-friendly web application where healthcare professionals or researchers can input patient details and receive an immediate risk assessment.
